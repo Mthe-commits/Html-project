@@ -1,2 +1,2 @@
 # Html-project
-.html
+my project
